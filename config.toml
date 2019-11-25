@@ -4,7 +4,7 @@ title = "Julien Pelegri"
 theme = "hyde-hyde"
 
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://pelegri.netlify.com/"
 
 
 ## Hugo Built-in Features
