@@ -54,17 +54,7 @@ baseurl = "https://example.com/"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
-[[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 200
-    url = "/portfolio/"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
+    name = "Resume"
+    identifier = "Resume"
     weight = 300
     url = "/about/"

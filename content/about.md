@@ -1,19 +1,18 @@
-+++
-title = "About Hugo"
-date = "2014-04-09"
-photo = cv.png
-+++
+---
+title : "Resume"
+date : "2019-11-09"
+photo :
+---
 
 
-Hugo is a static site engine written in Go.
+<center>
 
 
-It makes use of a variety of open source projects including:
+  <img src="/img/cv.png" alt="Image" width="180%" height="250%" style="text-align:center;" />
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+  Easier way to contact me : [Linkedin](https://www.linkedin.com/in/julienpelegri/).
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+</center>
+
+
 
